@@ -1,0 +1,29 @@
+
+.form__button{
+    font-weight: 600;
+    height: 50px;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.form__button__blue{
+    width: 104%;
+    background-color: #1877f2;
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-bottom: 18px;
+}
+
+.form__button__green{
+    cursor: pointer;
+    width: 50%;
+    background-color: #42b72a;
+    font-size: 1rem;
+    transition: .5s ease all;
+}
+
+.form__button__green:hover{
+    background-color: #2b9217;
+}
+
